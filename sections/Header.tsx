@@ -25,7 +25,7 @@ export default function Header(
       link: "/",
     },
     title = "Click here to tweak th> <img src=x onerror=alert(1) > is text however you want.",
-    description = "This text is entirely editable, tailor it freely.",
+    description = "This text is entkjkirely editable, tailor it freely.",
   }: Props,
 ): JSX.Element | null {
   const logoImg = (
