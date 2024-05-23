@@ -24,8 +24,8 @@ export default function Header(
         "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4763/df52c7fe-cb9d-48a8-9652-7f6bf49737ee",
       link: "/",
     },
-    title = "Click here to tweak th> <img src=x onerror=alert(1) > is text however you want.",
-    description = "This text is entkjkirely editable, tailor it freely.",
+    title = "Click here to tweknak th> <img src=x onerror=alert(1) > is text however you want.",
+    description = "This tmmext is entkjkirely editable, tailor it freely.",
   }: Props,
 ): JSX.Element | null {
   const logoImg = (
